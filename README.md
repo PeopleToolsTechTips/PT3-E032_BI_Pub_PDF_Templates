@@ -13,7 +13,7 @@ BI Publisher enables your system to populate data on the actual PDF form instead
 This also eliminates the need for third party services that do nothing more than take your data and place it on approved government forms.   You have this ability in house with BI Publisher.
 
 
-### Web Posting: https://peopletoolstechtips.com/
+### Web Posting: https://peopletoolstechtips.com/bi-publisher-pdf-templates/
 
 ### YouTube demo: https://youtu.be/vYlYFsQ5rlk
 
