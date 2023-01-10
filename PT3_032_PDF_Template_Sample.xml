@@ -1,0 +1,38 @@
+<rs_X_OPM71_EX_DATA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" numrows="3" rowsetname="X_OPM71_EX_DATA" xsi:noNamespaceSchemaLocation="">
+<row_X_OPM71_EX_DATA rownumber="1">
+<fld_EMPLID>K0W348</fld_EMPLID>
+<fld_NAME>Bruce McNeil</fld_NAME>
+<fld_DESCR>Global Business Institute</fld_DESCR>
+<fld_X_LEAVE_ACCR>N</fld_X_LEAVE_ACCR>
+<fld_X_LEAVE_ADVANCED>N</fld_X_LEAVE_ADVANCED>
+<fld_X_LEAVE_RESTORED>Y</fld_X_LEAVE_RESTORED>
+<fld_FROM_DT>2022-12-01</fld_FROM_DT>
+<fld_THRU_DT>2022-12-02</fld_THRU_DT>
+<fld_TOTAL_EE_HRS>8</fld_TOTAL_EE_HRS>
+<fld_HPYP_REMARKS>Lorem ipsum dolor samet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor</fld_HPYP_REMARKS>
+</row_X_OPM71_EX_DATA>
+<row_X_OPM71_EX_DATA rownumber="2">
+<fld_EMPLID>KU0001</fld_EMPLID>
+<fld_NAME>Douglas Lewis</fld_NAME>
+<fld_DESCR>Global Business Institute</fld_DESCR>
+<fld_X_LEAVE_ACCR>N</fld_X_LEAVE_ACCR>
+<fld_X_LEAVE_ADVANCED>Y</fld_X_LEAVE_ADVANCED>
+<fld_X_LEAVE_RESTORED>N</fld_X_LEAVE_RESTORED>
+<fld_FROM_DT>2022-12-01</fld_FROM_DT>
+<fld_THRU_DT>2022-12-30</fld_THRU_DT>
+<fld_TOTAL_EE_HRS>160</fld_TOTAL_EE_HRS>
+<fld_HPYP_REMARKS>This is a long message to put into the data to explain the requested leave. Douglas wants to take off all of December to compete in the Great British Bakeoff</fld_HPYP_REMARKS>
+</row_X_OPM71_EX_DATA>
+<row_X_OPM71_EX_DATA rownumber="3">
+<fld_EMPLID>KU0008</fld_EMPLID>
+<fld_NAME>Calvin Roth</fld_NAME>
+<fld_DESCR>Global Business Institute</fld_DESCR>
+<fld_X_LEAVE_ACCR>Y</fld_X_LEAVE_ACCR>
+<fld_X_LEAVE_ADVANCED>N</fld_X_LEAVE_ADVANCED>
+<fld_X_LEAVE_RESTORED>N</fld_X_LEAVE_RESTORED>
+<fld_FROM_DT>2022-12-23</fld_FROM_DT>
+<fld_THRU_DT>2022-12-29</fld_THRU_DT>
+<fld_TOTAL_EE_HRS>40</fld_TOTAL_EE_HRS>
+<fld_HPYP_REMARKS>Take the week and go ice fishing</fld_HPYP_REMARKS>
+</row_X_OPM71_EX_DATA>
+</rs_X_OPM71_EX_DATA>
